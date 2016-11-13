@@ -52,10 +52,7 @@ section{
 		width:170px;
 		height:220px;
 	}
-p.sansserif{
-	font-family:Arial, Helvetica, sans-serif;
-	font-size: 200%;
-}
+	
 #work{
 background-color:#90EE90;
 }
@@ -65,5 +62,14 @@ background-color:#90EE90;
 #projects{
 background-color:#90EE90;
 }
-
+.size{
+font-family:Arial, Helvetica, sans-serif;
+font-size: 200%;
+line-height:200%;
+}
+.name{
+font-family:Arial, Helvetica, sans-serif;
+font-size: 200%;
+line-height:100%;
+}
 #8FBC8F
