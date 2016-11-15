@@ -32,7 +32,7 @@ nav ul{
 	color:white;
 	padding:0;
 	text-align:center;
-	margin:0;
+	margin-top: -30px;
 }
 nav ul li{
 	display:inline-block;
@@ -49,12 +49,12 @@ section{
 	margin:0 auto;
 }
 .profile-photo{
-		width:170px;
-		height:220px;
+	width: 205px;
 	}
 	
 #work{
 background-color:#90EE90;
+margin-top: -10px;
 }
 section.works{
 background-color:#90EE90;
@@ -62,14 +62,31 @@ background-color:#90EE90;
 #projects{
 background-color:#90EE90;
 }
+
 .size{
 font-family:Arial, Helvetica, sans-serif;
-font-size: 200%;
-line-height:200%;
+font-size: 25px;
 }
+.sub-names{
+font-family:Arial, Helvetica, sans-serif;
+font-size: 40px;
+line-height:100%;
+margin-left: 100px;
+color: black;
+}
+
 .name{
 font-family:Arial, Helvetica, sans-serif;
-font-size: 200%;
+font-size: 100px;
 line-height:100%;
+margin-left: 100px;
+color:black;
 }
-#8FBC8F
+#sam{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+#qualifications{
+    background-color: #43a286;
+    margin-top: -10px;
+}
